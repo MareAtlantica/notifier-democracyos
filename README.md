@@ -2,6 +2,10 @@
 
 HTTP API that receives the event and turning that event into corresponding notification.
 
+## Note about 1.0.0 branch
+
+This version of `notifier` is intended to be used **only** with DemocracyOS ~1.0.0
+
 ## API
 
 The entry point of application responsible for initializing the `notifier`.
