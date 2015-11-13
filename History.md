@@ -1,4 +1,10 @@
 
+1.0.0 / 2015-11-13
+==================
+
+  * Update Dependency democracyos-notifier to DemocracyOS/notifier
+  * Replace master branch contents with the contents of 1.0.0
+
 1.0.0rc / 2015-08-25
 ====================
 
